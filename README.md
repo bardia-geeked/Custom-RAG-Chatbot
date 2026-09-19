@@ -50,7 +50,7 @@ A Streamlit app that crawls a website, indexes it into a vector store, and answe
 
 ```bash
 git clone https://github.com/bardia-geeked/Custom-RAG-Chatbot.git
-cd custom-rag
+cd Custom RAG Chatbot
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -196,7 +196,7 @@ custom-rag/
 
 ```bash
 git clone https://github.com/bardia-geeked/Custom-RAG-Chatbot.git
-cd custom-rag
+cd Custom RAG Chatbot
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
