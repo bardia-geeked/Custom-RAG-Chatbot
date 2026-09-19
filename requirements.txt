@@ -1,0 +1,15 @@
+streamlit>=1.38
+langchain>=0.3
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-ollama>=0.2
+langchain-openai>=0.2
+langchain-anthropic>=0.2
+langchain-chroma>=0.1
+langchain-pinecone>=0.2
+langchain-tavily>=0.1
+langchain-text-splitters>=0.3
+firecrawl-py>=1.0
+pinecone>=5.0
+python-dotenv>=1.0
+certifi>=2024
